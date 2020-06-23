@@ -1,0 +1,28 @@
+# Environment variable
+.env*
+
+# Documentation
+*.md
+
+# Dependency
+node_modules
+
+# Git
+.git
+
+# Dist folder
+dist
+
+# Deploy
+scripts
+build
+k8s
+.gitlab-ci.yml
+
+# Test
+*.test.ts
+jest.config.js
+
+# Project
+.eslintrc
+.nodemon.json
